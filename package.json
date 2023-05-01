@@ -1,0 +1,13 @@
+{
+  "name": "react-router-backend",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node ./app.js",
+    "format": "prettier --write ."
+  },
+  "dependencies": {
+    "express": "~4.16.1",
+    "uuid": "^9.0.0"
+  }
+}
