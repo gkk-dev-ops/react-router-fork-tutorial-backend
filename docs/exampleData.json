@@ -1,0 +1,45 @@
+[
+    {
+      "id": "ce654218-8673-4e86-be12-f355693566d8",
+      "first": "John",
+      "last": " Doe",
+      "favorite": true,
+      "phone": "+1 123-456-7890",
+      "avatar": "https://loremflickr.com/640/360",
+      "twitter": "johndoe",
+      "notes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+    },
+    {
+      "id": "d7bed35a-db04-451e-a48f-6ec2bda2c78c",
+      "first": "Jane",
+      "last": "Smith",
+      "favorite": false,
+      "phone": "+44 7911 123456",
+      "avatar": "https://loremflickr.com/640/360",
+      "twitter": "janesmith",
+      "notes":
+        "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent sit amet nibh ultrices, finibus elit vitae, viverra nisl. Fusce vel sapien eget dolor egestas facilisis eu ut ante."
+    },
+    {
+      "id": "cd7f1062-f6db-4faf-af2e-38ed3946753c",
+      "first": "David",
+      "last": "Kim",
+      "favorite": true,
+      "phone": "+81 3-1234-5678",
+      "avatar": "https://loremflickr.com/640/360",
+      "twitter": "davidkim",
+      "notes":
+        "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ut ante sapien. Fusce mollis dolor eget sem faucibus, a fermentum tellus aliquam. Praesent varius, mi in congue consequat, ipsum nisi malesuada nisi, eu convallis turpis arcu ut urna."
+    },
+    {
+      "id": "27c36760-9a52-45a1-b807-9d6dd3b31d1c",
+      "first": "Anna",
+      "last": "Garcia",
+      "favorite": false,
+      "phone": "+55 11 98765-4321",
+      "avatar": "https://loremflickr.com/640/360",
+      "twitter": "annagarcia",
+      "notes":
+        "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla facilisi. Nam aliquam tristique elit, sit amet auctor lectus consectetur vel. Vivamus vel arcu sit amet nulla vestibulum rhoncus. Sed ultricies, purus quis tempor lacinia, quam nibh vehicula nulla, vitae hendrerit turpis augue at nisl."
+    }
+  ]
